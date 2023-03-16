@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
 
         ////helooo
         //ph28935 đã ở đây
-
+        //alo dcm game rác
     }
 }
